@@ -1,0 +1,43 @@
+// Color Palette
+$primary-orange: #F42B03;
+$primary-yellow: #FFBE0B;
+$dark-bg: #0f0f0f;
+$glass-bg: rgba(15, 15, 15, 0.85);
+$light-text: #ffffff;
+$border-subtle: rgba(255, 255, 255, 0.1);
+
+// Gradients
+$primary-gradient: linear-gradient(135deg,
+        rgba(255, 190, 11, 0.9) 0%,
+        rgba(244, 43, 3, 0.9) 100%);
+
+// Spacing
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 20px;
+$spacing-xl: 32px;
+
+// Borders
+$border-radius-small: 8px;
+$border-radius-medium: 16px;
+$border-radius-large: 24px;
+
+// Sizes
+$toggle-button-size: 72px;
+
+// Effects
+$glass-blur: 20px;
+
+// Transitions
+$transition-fast: 0.2s ease;
+$transition-medium: 0.3s ease;
+
+// Z-index
+$z-toggle: 1000;
+$z-container: 1000;
+
+// Breakpoints
+$mobile: 768px;
+$tablet: 1024px;
+$desktop: 1280px;
